@@ -5131,6 +5131,7 @@
 		],
 		"player3": "gf",
 		"song": "the-g-song",
+		"stage": "g-stage",
 		"needsVoices": true,
 		"validScore": true,
 		"speed": 1.5,
