@@ -9,7 +9,7 @@
 	<SubTexture name="G Sing Note RIGHT0000" x="798" y="798" width="768" height="768" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
 	<SubTexture name="G Sing Note RIGHT0001" x="10" y="1586" width="768" height="768" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
 	<SubTexture name="G Sing Note UP0000" x="798" y="1586" width="768" height="768" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
-	<SubTexture name="G Sing Note UP0001" x="798" y="10" width="768" height="768" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="G Sing Note UP0001" x="1586" y="10" width="768" height="768" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
 	<SubTexture name="G idle dance0000" x="10" y="10" width="768" height="768" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
 	<SubTexture name="G idle dance0001" x="2374" y="798" width="768" height="768" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
 	<SubTexture name="G idle dance0002" x="1586" y="798" width="768" height="768" frameX="0" frameY="-8" frameWidth="429" frameHeight="767"/>
